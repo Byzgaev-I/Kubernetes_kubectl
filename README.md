@@ -1,1 +1,1 @@
-# Kubernetes_kubectl
+# Домашнее задание к занятию «Kubernetes. Причины появления. Команда kubectl»
