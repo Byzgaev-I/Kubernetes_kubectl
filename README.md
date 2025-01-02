@@ -21,6 +21,24 @@
 ![image](https://github.com/Byzgaev-I/Kubernetes_kubectl/blob/main/4.png) 
 
 
+### Задание 2 Установка и настройка локального kubectl
+
+- Установить на локальную машину kubectl.  
+- Настроить локально подключение к кластеру.  
+- Подключиться к дашборду с помощью port-forward.
+
+![image](https://github.com/Byzgaev-I/Kubernetes_kubectl/blob/main/5.png)
+
+![image](https://github.com/Byzgaev-I/Kubernetes_kubectl/blob/main/Снимок%20экрана%202024-12-07%20в%2004.05.54.png)
+
+![image](https://github.com/Byzgaev-I/Kubernetes_kubectl/blob/main/Снимок%20экрана%202024-12-07%20в%2004.06.58.png)
+
+![image](https://github.com/Byzgaev-I/Kubernetes_kubectl/blob/main/Снимок%20экрана%202024-12-07%20в%2004.01.19.png)
+
+![image](https://github.com/Byzgaev-I/Kubernetes_kubectl/blob/main/Снимок%20экрана%202024-12-07%20в%2004.04.27.png) 
+
+
+
 
 
 
