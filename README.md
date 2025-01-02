@@ -19,6 +19,8 @@
 
 ![image](https://github.com/Byzgaev-I/Kubernetes_kubectl/blob/main/2%20dashboard.png)
 
+![image](https://github.com/Byzgaev-I/Kubernetes_kubectl/blob/main/3.png) 
+
 
 
 
