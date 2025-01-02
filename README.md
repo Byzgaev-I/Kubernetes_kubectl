@@ -9,7 +9,7 @@
 - Сгенерировать сертификат для подключения к внешнему ip-адресу.
 
 
-
+![image](https://github.com/Byzgaev-I/Kubernetes_kubectl/blob/main/1.png)
 
 
 
